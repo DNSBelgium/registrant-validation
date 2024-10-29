@@ -1,0 +1,2002 @@
+[
+    {
+        "Country code":"AD",
+        "Name":"Andorra",
+        "Postalcode regular expression":"^[Aa][Dd][0-9]{3}$",
+        "Phone prefix":376,
+        "Phone length":"^([0-9]{6}|[0-9]{8,9})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AE",
+        "Name":"United Arab Emirates",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":971,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AF",
+        "Name":"Afghanistan",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":93,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AG",
+        "Name":"Antigua and Barbuda",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AI",
+        "Name":"Anguilla",
+        "Postalcode regular expression":"^[Aa][I][-][2][6][4][0]$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AL",
+        "Name":"Albania",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":355,
+        "Phone length":"^[0-9]{3,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AM",
+        "Name":"Armenia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":374,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AN",
+        "Name":"Netherlands Antilles",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":599,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AO",
+        "Name":"Angola",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":244,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AQ",
+        "Name":"Antarctica",
+        "Postalcode regular expression":"^[0]{4,5}$|^BIQQ 1ZZ$",
+        "Phone prefix":672,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AR",
+        "Name":"Argentina",
+        "Postalcode regular expression":"^[0-9]{4}|[A-Za-z][0-9]{4}[a-zA-Z]{3}$",
+        "Phone prefix":54,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AS",
+        "Name":"American Samoa",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AT",
+        "Name":"Austria",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":43,
+        "Phone length":"^[0-9]{4,13}$",
+        "VAT regular expression":"^(AT)?U[0-9]{8}$"
+    },
+    {
+        "Country code":"AU",
+        "Name":"Australia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":61,
+        "Phone length":"^[0-9]{5,15}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AW",
+        "Name":"Aruba",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":297,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"AX",
+        "Name":"\u00c5land Islands",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":358,
+        "Phone length":"^[0-9]{5,12}$",
+        "VAT regular expression":"^(FI)?[0-9]{8}$"
+    },
+    {
+        "Country code":"AZ",
+        "Name":"Azerbaijan",
+        "Postalcode regular expression":"^[Aa][Zz][0-9]{4}$",
+        "Phone prefix":994,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BA",
+        "Name":"Bosnia and Herzegovina",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":387,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BB",
+        "Name":"Barbados",
+        "Postalcode regular expression":"^[Bb][Bb][0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BD",
+        "Name":"Bangladesh",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":880,
+        "Phone length":"^[0-9]{6,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BE",
+        "Name":"Belgium",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":32,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":"^(BE)?[0,1]{1}[0-9]{9}$"
+    },
+    {
+        "Country code":"BF",
+        "Name":"Burkina Faso",
+        "Postalcode regular expression":"^([0]{4}|[0-9]{2})$",
+        "Phone prefix":226,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BG",
+        "Name":"Bulgaria",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":359,
+        "Phone length":"^[0-9]{7,9}$",
+        "VAT regular expression":"^(BG)?[0-9]{9,10}$"
+    },
+    {
+        "Country code":"BH",
+        "Name":"Bahrain",
+        "Postalcode regular expression":"^[0-9]{3,4}$",
+        "Phone prefix":973,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BI",
+        "Name":"Burundi",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":257,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BJ",
+        "Name":"Benin",
+        "Postalcode regular expression":"^([0]{4}|[0-9]{2})$",
+        "Phone prefix":229,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BL",
+        "Name":"Saint Barth\u00e9lemy",
+        "Postalcode regular expression":"^97133$",
+        "Phone prefix":590,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BM",
+        "Name":"Bermuda",
+        "Postalcode regular expression":"^[A-Za-z]{2}\\s([A-Za-z]{2}|[0-9]{2})$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BN",
+        "Name":"Brunei Darussalam",
+        "Postalcode regular expression":"^[A-Za-z]{2}[0-9]{4}$",
+        "Phone prefix":673,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BO",
+        "Name":"Bolivia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":591,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BQ",
+        "Name":"Bonaire, Sint Eustatius and Saba",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":599,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BR",
+        "Name":"Brazil",
+        "Postalcode regular expression":"^[0-9]{5}-[0-9]{3}$",
+        "Phone prefix":55,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BS",
+        "Name":"Bahamas",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BT",
+        "Name":"Bhutan",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":975,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BV",
+        "Name":"Bouvet Island",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":47,
+        "Phone length":"^([0-9]{5}|[0-9]{8})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BW",
+        "Name":"Botswana",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":267,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BY",
+        "Name":"Belarus",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":375,
+        "Phone length":"^[0-9]{9,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"BZ",
+        "Name":"Belize",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":501,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CA",
+        "Name":"Canada",
+        "Postalcode regular expression":"^[ABCEGHJKLMNPRSTVWXY][0-9][ABCEGHJKLMNPRSTVWXYZ]\\s[0-9][ABCEGHJKLMNPRSTVWXYZ][0-9]$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CC",
+        "Name":"Cocos (Keeling) Islands",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":61,
+        "Phone length":"^[0-9]{5,15}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CD",
+        "Name":"Congo, Democratic Republic",
+        "Postalcode regular expression":"^([0-9]{7}|[0]{4})$",
+        "Phone prefix":243,
+        "Phone length":"^[0-9]{5,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CF",
+        "Name":"Central African",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":236,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CG",
+        "Name":"Congo (Brazzaville)",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":242,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CH",
+        "Name":"Switzerland",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":41,
+        "Phone length":"^[0-9]{4,12}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CI",
+        "Name":"C\u00f4te d'Ivoire",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":225,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CK",
+        "Name":"Cook Islands",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":682,
+        "Phone length":"^[0-9]{5}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CL",
+        "Name":"Chile",
+        "Postalcode regular expression":"^[0-9]{3}-[0-9]{4}$",
+        "Phone prefix":56,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CM",
+        "Name":"Cameroon",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":237,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CN",
+        "Name":"China",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":86,
+        "Phone length":"^[0-9]{5,12}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CO",
+        "Name":"Colombia",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":57,
+        "Phone length":"^([0-9]{8}|[0-9]{10})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CR",
+        "Name":"Costa Rica",
+        "Postalcode regular expression":"^[0-9]{4,5}$",
+        "Phone prefix":506,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CU",
+        "Name":"Cuba",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":53,
+        "Phone length":"^[0-9]{6,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CV",
+        "Name":"Cape Verde",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":238,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CW",
+        "Name":"Cura\u00e7ao",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":599,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CX",
+        "Name":"Christmas Island",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":61,
+        "Phone length":"^[0-9]{5,15}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"CY",
+        "Name":"Cyprus",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":357,
+        "Phone length":"^([0-9]{8}|[0-9]{11})$",
+        "VAT regular expression":"^(CY)?[0-9]{8}L$"
+    },
+    {
+        "Country code":"CZ",
+        "Name":"Czech Republic",
+        "Postalcode regular expression":"^[0-9]{3}\\s[0-9]{2}$",
+        "Phone prefix":420,
+        "Phone length":"^[0-9]{4,12}$",
+        "VAT regular expression":"^(CZ)?[0-9]{8,10}$"
+    },
+    {
+        "Country code":"DE",
+        "Name":"Germany",
+        "Postalcode regular expression":"^([0-9]{2})|([0-9]{4})|([0-9]{5})$",
+        "Phone prefix":49,
+        "Phone length":"^[0-9]{6,13}$",
+        "VAT regular expression":"^(DE)?[0-9]{9}$"
+    },
+    {
+        "Country code":"DJ",
+        "Name":"Djibouti",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":253,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"DK",
+        "Name":"Denmark",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":45,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":"^(DK)?[0-9]{8}$"
+    },
+    {
+        "Country code":"DM",
+        "Name":"Dominica",
+        "Postalcode regular expression":"^00109-8000$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"DO",
+        "Name":"Dominican Republic",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"DZ",
+        "Name":"Algeria",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":213,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"EC",
+        "Name":"Ecuador",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":593,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"EE",
+        "Name":"Estonia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":372,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":"^(EE)?[0-9]{9}$"
+    },
+    {
+        "Country code":"EG",
+        "Name":"Egypt",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":20,
+        "Phone length":"^[0-9]{7,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"EH",
+        "Name":"Western Sahara",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":212,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ER",
+        "Name":"Eritrea",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":291,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ES",
+        "Name":"Spain",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":34,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(ES)?[0-9A-Z][0-9]{7}[0-9A-Z]$"
+    },
+    {
+        "Country code":"ET",
+        "Name":"Ethiopia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":251,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"FI",
+        "Name":"Finland",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":358,
+        "Phone length":"^[0-9]{5,12}$",
+        "VAT regular expression":"^(FI)?[0-9]{8}$"
+    },
+    {
+        "Country code":"FJ",
+        "Name":"Fiji",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":679,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"FK",
+        "Name":"Falkland Islands",
+        "Postalcode regular expression":"^[Ff][Ii][Qq]{2}\\s{0,1}[1][Zz]{2}$",
+        "Phone prefix":500,
+        "Phone length":"^[0-9]{5}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"FM",
+        "Name":"Federated States of Micronesia",
+        "Postalcode regular expression":"^([0-9]{5})|([0-9]{5}(-{1}[0-9]{4}))$",
+        "Phone prefix":691,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"FO",
+        "Name":"Faroe Islands",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":298,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"FR",
+        "Name":"France",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":33,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(FR)?[0-9A-Z]{2}[0-9]{9}$"
+    },
+    {
+        "Country code":"GA",
+        "Name":"Gabon",
+        "Postalcode regular expression":"^[0-9]{2}\\s[a-zA-Z-_ ]\\s[0-9]{2}$",
+        "Phone prefix":241,
+        "Phone length":"^[0-9]{6,7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GB",
+        "Name":"United Kingdom",
+        "Postalcode regular expression":"^[A-Z]{1,2}[0-9R][0-9A-Z]?\\s*[0-9][A-Z-[CIKMOV]]{2}$",
+        "Phone prefix":44,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":"^(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})$"
+    },
+    {
+        "Country code":"GD",
+        "Name":"Grenada",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GE",
+        "Name":"Georgia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":995,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GF",
+        "Name":"French Guiana",
+        "Postalcode regular expression":"^973[0-9]{2}$",
+        "Phone prefix":594,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(FR)?[0-9A-Z]{2}[0-9]{9}$"
+    },
+    {
+        "Country code":"GG",
+        "Name":"Guernsey",
+        "Postalcode regular expression":"^[A-Za-z]{2}[0-9]\\s{0,1}[0-9][A-Za-z]{2}$",
+        "Phone prefix":44,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GH",
+        "Name":"Ghana",
+        "Postalcode regular expression":"^[aA-zZ]{2}[0-9]{3}$",
+        "Phone prefix":233,
+        "Phone length":"^[0-9]{5,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GI",
+        "Name":"Gibraltar",
+        "Postalcode regular expression":"^[Gg][Xx][1]{2}\\s{0,1}[1][Aa]{2}$",
+        "Phone prefix":350,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":"^(GB)?([0-9]{9}([0-9]{3})?|[A-Z]{2}[0-9]{3})$"
+    },
+    {
+        "Country code":"GL",
+        "Name":"Greenland",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":299,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GM",
+        "Name":"Gambia",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":220,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GN",
+        "Name":"Guinea",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":224,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GP",
+        "Name":"Guadeloupe",
+        "Postalcode regular expression":"^971[0-9]{2}$",
+        "Phone prefix":590,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(FR)?[0-9A-Z]{2}[0-9]{9}$"
+    },
+    {
+        "Country code":"GQ",
+        "Name":"Equatorial Guinea",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":240,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GR",
+        "Name":"Greece",
+        "Postalcode regular expression":"^[0-9]{3}\\s{0,1}[0-9]{2}$",
+        "Phone prefix":30,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":"^(EL|GR)?[0-9]{9}$"
+    },
+    {
+        "Country code":"GS",
+        "Name":"South Georgia and the South Sandwich Islands",
+        "Postalcode regular expression":"^[Ss][Ii][Qq]{2}\\s{0,1}[1][Zz]{2}$",
+        "Phone prefix":995,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GT",
+        "Name":"Guatemala",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":502,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GU",
+        "Name":"Guam",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GW",
+        "Name":"Guinea-Bissau",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":245,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"GY",
+        "Name":"Guyana",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":592,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"HK",
+        "Name":"Hong Kong",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":852,
+        "Phone length":"^([0-9]{4}|[0-9]{8,9})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"HM",
+        "Name":"Heard Island and McDonald Islands",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":672,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"HN",
+        "Name":"Honduras",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":504,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"HR",
+        "Name":"Croatia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":385,
+        "Phone length":"^[0-9]{8,12}$",
+        "VAT regular expression":"^(HR)?[0-9]{11}$"
+    },
+    {
+        "Country code":"HT",
+        "Name":"Haiti",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":509,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"HU",
+        "Name":"Hungary",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":36,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":"^(HU)?[0-9]{8}$"
+    },
+    {
+        "Country code":"ID",
+        "Name":"Indonesia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":62,
+        "Phone length":"^[0-9]{5,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IE",
+        "Name":"Ireland",
+        "Postalcode regular expression":"^[aA-zZ0-9]{7}$",
+        "Phone prefix":353,
+        "Phone length":"^[0-9]{7,11}$",
+        "VAT regular expression":"^(IE)?[0-9]S[0-9]{5}L$"
+    },
+    {
+        "Country code":"IL",
+        "Name":"Israel",
+        "Postalcode regular expression":"^[0-9]{5}([0-9]{2})?$",
+        "Phone prefix":972,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IM",
+        "Name":"Isle of Man",
+        "Postalcode regular expression":"^[Ii][Mm][0-9]{1,2}\\s[0-9]\\[A-Z]{2}$",
+        "Phone prefix":44,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IN",
+        "Name":"India",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":91,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IO",
+        "Name":"British Indian Ocean Territory",
+        "Postalcode regular expression":"^[Bb]{2}[Nn][Dd]\\s{0,1}[1][Zz]{2}$",
+        "Phone prefix":246,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IQ",
+        "Name":"Iraq",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":964,
+        "Phone length":"^[0-9]{8,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IR",
+        "Name":"Islamic Republic of Iran",
+        "Postalcode regular expression":"^[0-9]{5}-[0-9]{5}$",
+        "Phone prefix":98,
+        "Phone length":"^[0-9]{6,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"IS",
+        "Name":"Iceland",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":354,
+        "Phone length":"^([0-9]{7}|[0-9]{9})$",
+        "VAT regular expression":"^[0-9a-zA-Z]{5,6}$"
+    },
+    {
+        "Country code":"IT",
+        "Name":"Italy",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":39,
+        "Phone length":"^[0-9]{1,11}$",
+        "VAT regular expression":"^(IT)?[0-9]{11}$"
+    },
+    {
+        "Country code":"JE",
+        "Name":"Jersey",
+        "Postalcode regular expression":"^[Jj][Ee][0-9]\\s{0,1}[0-9][A-Za-z]{2}$",
+        "Phone prefix":44,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"JM",
+        "Name":"Jamaica",
+        "Postalcode regular expression":"^[0-9]{2}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"JO",
+        "Name":"Jordan",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":962,
+        "Phone length":"^[0-9]{5,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"JP",
+        "Name":"Japan",
+        "Postalcode regular expression":"^[0-9]{3}-[0-9]{4}$",
+        "Phone prefix":81,
+        "Phone length":"^[0-9]{5,13}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KE",
+        "Name":"Kenya",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":254,
+        "Phone length":"^[0-9]{6,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KG",
+        "Name":"Kyrgyzstan",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":996,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KH",
+        "Name":"Cambodia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":855,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KI",
+        "Name":"Kiribati",
+        "Postalcode regular expression":"^[Kk][Ii][0-9]{4}$",
+        "Phone prefix":686,
+        "Phone length":"^[0-9]{5}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KM",
+        "Name":"Comoros",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":269,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KN",
+        "Name":"Saint Kitts and Nevis",
+        "Postalcode regular expression":"^[Kk][Nn][0-9]{4}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KP",
+        "Name":"Democratic People's Republic of Korea",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":850,
+        "Phone length":"^[0-9]{6,17}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KR",
+        "Name":"Republic of Korea",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":82,
+        "Phone length":"^[0-9]{8,11}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KW",
+        "Name":"Kuwait",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":965,
+        "Phone length":"^([0-9]{7}|[0-9]{8})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KY",
+        "Name":"Cayman Islands",
+        "Postalcode regular expression":"^[Kk][Yy][0-9][-\\s]{0,1}[0-9]{4}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"KZ",
+        "Name":"Kazakhstan",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":7,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LA",
+        "Name":"Lao People's Democratic Republic",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":856,
+        "Phone length":"^[0-9]{8,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LB",
+        "Name":"Lebanon",
+        "Postalcode regular expression":"^[0-9]{4}\\s{0,1}[0-9]{4}$",
+        "Phone prefix":961,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LC",
+        "Name":"Saint Lucia",
+        "Postalcode regular expression":"^[Ll][Cc]([0-9]\\s?){5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LI",
+        "Name":"Liechtenstein",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":423,
+        "Phone length":"^[0-9]{7,9}$",
+        "VAT regular expression":"^[0-9]{5}$"
+    },
+    {
+        "Country code":"LK",
+        "Name":"Sri Lanka",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":94,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LR",
+        "Name":"Liberia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":231,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LS",
+        "Name":"Lesotho",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":266,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"LT",
+        "Name":"Lithuania",
+        "Postalcode regular expression":"^[Ll][Tt][- ]{0,1}[0-9]{5}$",
+        "Phone prefix":370,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":"^(LT)?([0-9]{9}|[0-9]{12})$"
+    },
+    {
+        "Country code":"LU",
+        "Name":"Luxembourg",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":352,
+        "Phone length":"^[0-9]{4,11}$",
+        "VAT regular expression":"^(LU)?[0-9]{8}$"
+    },
+    {
+        "Country code":"LV",
+        "Name":"Latvia",
+        "Postalcode regular expression":"^[Ll][Vv][- ]{0,1}[0-9]{4}$",
+        "Phone prefix":371,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":"^(LV)?[0-9]{11}$"
+    },
+    {
+        "Country code":"LY",
+        "Name":"Libyan Arab Jamahiriya",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":218,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MA",
+        "Name":"Morocco",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":212,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MC",
+        "Name":"Monaco",
+        "Postalcode regular expression":"^980[0-9]{2}$",
+        "Phone prefix":377,
+        "Phone length":"^[0-9]{5,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MD",
+        "Name":"Republic of Moldova",
+        "Postalcode regular expression":"^[Mm][Dd][- ]{0,1}[0-9]{4}$",
+        "Phone prefix":373,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ME",
+        "Name":"Montenegro",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":382,
+        "Phone length":"^[0-9]{4,12}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MG",
+        "Name":"Madagascar",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":261,
+        "Phone length":"^[0-9]{9,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MH",
+        "Name":"Marshall Islands",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":692,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MK",
+        "Name":"The Former Yugoslav Republic of Macedonia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":389,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ML",
+        "Name":"Mali",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":223,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MM",
+        "Name":"Myanmar",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":95,
+        "Phone length":"^[0-9]{7,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MN",
+        "Name":"Mongolia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":976,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MO",
+        "Name":"Macao",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":853,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MP",
+        "Name":"Northern Mariana Islands",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MQ",
+        "Name":"Martinique",
+        "Postalcode regular expression":"^972[0-9]{2}$",
+        "Phone prefix":596,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(FR)?[0-9A-Z]{2}[0-9]{9}$"
+    },
+    {
+        "Country code":"MR",
+        "Name":"Mauritania",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":222,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MS",
+        "Name":"Montserrat",
+        "Postalcode regular expression":"^[Mm][Ss][Rr]\\s{0,1}[0-9]{4}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MT",
+        "Name":"Malta",
+        "Postalcode regular expression":"^[A-Za-z]{3}\\s{0,1}[0-9]{4}$",
+        "Phone prefix":356,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":"^(MT)?[0-9]{8}$"
+    },
+    {
+        "Country code":"MU",
+        "Name":"Mauritius",
+        "Postalcode regular expression":"^[0-9]{5}|([aA-zZ]{1}[0-9]{4})$",
+        "Phone prefix":230,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MV",
+        "Name":"Maldives",
+        "Postalcode regular expression":"^[0-9]{4,5}$",
+        "Phone prefix":960,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MW",
+        "Name":"Malawi",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":265,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MX",
+        "Name":"Mexico",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":52,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MY",
+        "Name":"Malaysia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":60,
+        "Phone length":"^[0-9]{7,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"MZ",
+        "Name":"Mozambique",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":258,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":null,
+        "Name":"Namibia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":264,
+        "Phone length":"^[0-9]{6,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NC",
+        "Name":"New Caledonia",
+        "Postalcode regular expression":"^988[0-9]{2}$",
+        "Phone prefix":687,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NE",
+        "Name":"Niger",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":227,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NF",
+        "Name":"Norfolk Island",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":672,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NG",
+        "Name":"Nigeria",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":234,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NI",
+        "Name":"Nicaragua",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":505,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NL",
+        "Name":"Netherlands",
+        "Postalcode regular expression":"^[0-9]{4}\\s{0,1}[A-Za-z]{2}$",
+        "Phone prefix":31,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(NL)?[0-9]{9}B[0-9]{2}$"
+    },
+    {
+        "Country code":"NO",
+        "Name":"Norway",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":47,
+        "Phone length":"^([0-9]{5}|[0-9]{8})$",
+        "VAT regular expression":"^[0-9]{9}(MVA)?$"
+    },
+    {
+        "Country code":"NP",
+        "Name":"Nepal",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":977,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NR",
+        "Name":"Nauru",
+        "Postalcode regular expression":"^[Nn][Rr][Uu]68$",
+        "Phone prefix":674,
+        "Phone length":"^([0-9]{4}|[0-9]{7})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NU",
+        "Name":"Niue",
+        "Postalcode regular expression":"^9974$",
+        "Phone prefix":683,
+        "Phone length":"^[0-9]{4}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"NZ",
+        "Name":"New Zealand",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":64,
+        "Phone length":"^[0-9]{3,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"OM",
+        "Name":"Oman",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":968,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PA",
+        "Name":"Panama",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":507,
+        "Phone length":"^([0-9]{7}|[0-9]{8})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PE",
+        "Name":"Peru",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":51,
+        "Phone length":"^[0-9]{8,11}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PF",
+        "Name":"French Polynesia",
+        "Postalcode regular expression":"^987[0-9]{2}$",
+        "Phone prefix":689,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PG",
+        "Name":"Papua New Guinea",
+        "Postalcode regular expression":"^[0-9]{3}$",
+        "Phone prefix":675,
+        "Phone length":"^[0-9]{4,11}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PH",
+        "Name":"Philippines",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":63,
+        "Phone length":"^[0-9]{8,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PK",
+        "Name":"Pakistan",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":92,
+        "Phone length":"^[0-9]{8,11}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PL",
+        "Name":"Poland",
+        "Postalcode regular expression":"^[0-9]{2}[- ]{0,1}[0-9]{3}$",
+        "Phone prefix":48,
+        "Phone length":"^[0-9]{6,9}$",
+        "VAT regular expression":"^(PL)?[0-9]{10}$"
+    },
+    {
+        "Country code":"PM",
+        "Name":"Saint-Pierre and Miquelon",
+        "Postalcode regular expression":"^97500$",
+        "Phone prefix":508,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PN",
+        "Name":"Pitcairn",
+        "Postalcode regular expression":"^[Pp][Cc][Rr][Nn]\\s{0,1}[1][Zz]{2}$",
+        "Phone prefix":64,
+        "Phone length":"^[0-9]{3,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PR",
+        "Name":"Puerto Rico",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PS",
+        "Name":"Occupied Palestinian Territory",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":970,
+        "Phone length":"^[0-9]{9,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PT",
+        "Name":"Portugal",
+        "Postalcode regular expression":"^([0-9]{4})|([0-9]{4}[- ]{0,1}[0-9]{3})$",
+        "Phone prefix":351,
+        "Phone length":"^[0-9]{9,11}$",
+        "VAT regular expression":"^(PT)?[0-9]{9}$"
+    },
+    {
+        "Country code":"PW",
+        "Name":"Palau",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":680,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"PY",
+        "Name":"Paraguay",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":595,
+        "Phone length":"^[0-9]{5,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"QA",
+        "Name":"Qatar",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":974,
+        "Phone length":"^[0-9]{3,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"RE",
+        "Name":"R\u00e9union",
+        "Postalcode regular expression":"^974[0-9]{2}$",
+        "Phone prefix":262,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(FR)?[0-9A-Z]{2}[0-9]{9}$"
+    },
+    {
+        "Country code":"RO",
+        "Name":"Romania",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":40,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":"^(RO)?[0-9]{2,10}$"
+    },
+    {
+        "Country code":"RS",
+        "Name":"Serbia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":381,
+        "Phone length":"^[0-9]{4,12}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"RU",
+        "Name":"Russian Federation",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":7,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"RW",
+        "Name":"Rwanda",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":250,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SA",
+        "Name":"Saudi Arabia",
+        "Postalcode regular expression":"^[0-9]{5}(-{1}[0-9]{4})?$",
+        "Phone prefix":966,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SB",
+        "Name":"Solomon Islands",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":677,
+        "Phone length":"^[0-9]{5}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SC",
+        "Name":"Seychelles",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":248,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SD",
+        "Name":"Sudan",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":249,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SE",
+        "Name":"Sweden",
+        "Postalcode regular expression":"^[0-9]{3}\\s*[0-9]{2}$",
+        "Phone prefix":46,
+        "Phone length":"^[0-9]{7,13}$",
+        "VAT regular expression":"^(SE)?[0-9]{12}$"
+    },
+    {
+        "Country code":"SG",
+        "Name":"Singapore",
+        "Postalcode regular expression":"^([0-9]{2})|([0-9]{4})|([0-9]{6})$",
+        "Phone prefix":65,
+        "Phone length":"^[0-9]{8,12}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SH",
+        "Name":"Saint Helena",
+        "Postalcode regular expression":"^(STHL|sthl|ASCN|ascn|TDCU|tdcu)\\s(1ZZ|1zz)$",
+        "Phone prefix":290,
+        "Phone length":"^[0-9]{4}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SI",
+        "Name":"Slovenia",
+        "Postalcode regular expression":"^([Ss][Ii][- ]{0,1}){0,1}[0-9]{4}$",
+        "Phone prefix":386,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":"^(SI)?[0-9]{8}$"
+    },
+    {
+        "Country code":"SJ",
+        "Name":"Svalbard and Jan Mayen",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":47,
+        "Phone length":"^([0-9]{5}|[0-9]{8})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SK",
+        "Name":"Slovakia",
+        "Postalcode regular expression":"^[0-9]{3}\\s?[0-9]{2}$",
+        "Phone prefix":421,
+        "Phone length":"^[0-9]{4,9}$",
+        "VAT regular expression":"^(SK)?[0-9]{10}$"
+    },
+    {
+        "Country code":"SL",
+        "Name":"Sierra Leone",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":232,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SM",
+        "Name":"San Marino",
+        "Postalcode regular expression":"^4789[0-9]$",
+        "Phone prefix":378,
+        "Phone length":"^[0-9]{6,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SN",
+        "Name":"Senegal",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":221,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SO",
+        "Name":"Somalia",
+        "Postalcode regular expression":"^[aA-zZ]{2}[0-9]{5}$",
+        "Phone prefix":252,
+        "Phone length":"^[0-9]{5,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SR",
+        "Name":"Suriname",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":597,
+        "Phone length":"^[0-9]{6,7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SS",
+        "Name":"Republic of South Sudan",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":211,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ST",
+        "Name":"Sao Tome and Principe",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":239,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SV",
+        "Name":"El Salvador",
+        "Postalcode regular expression":"^1101$",
+        "Phone prefix":503,
+        "Phone length":"^([0-9]{7}|[0-9]{8}|[0-9]{11})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SX",
+        "Name":"Sint Maarten",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SY",
+        "Name":"Syrian Arab Republic",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":963,
+        "Phone length":"^[0-9]{8,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"SZ",
+        "Name":"Swaziland",
+        "Postalcode regular expression":"^[A-Za-z][0-9]{3}$",
+        "Phone prefix":268,
+        "Phone length":"^[0-9]{7,8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TC",
+        "Name":"Turks and Caicos Islands",
+        "Postalcode regular expression":"^[Tt][Kk][Cc][Aa]\\s{0,1}[1][Zz]{2}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TD",
+        "Name":"Chad",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":235,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TF",
+        "Name":"French Southern Territories",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":33,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TG",
+        "Name":"Togo",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":228,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TH",
+        "Name":"Thailand",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":66,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TJ",
+        "Name":"Tajikistan",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":992,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TK",
+        "Name":"Tokelau",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":690,
+        "Phone length":"^[0-9]{4}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TL",
+        "Name":"Timor-Leste",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":670,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TM",
+        "Name":"Turkmenistan",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":993,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TN",
+        "Name":"Tunisia",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":216,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TO",
+        "Name":"Tonga",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":676,
+        "Phone length":"^([0-9]{5}|[0-9]{7})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TR",
+        "Name":"Turkey",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":90,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TT",
+        "Name":"Trinidad and Tobago",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TV",
+        "Name":"Tuvalu",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":688,
+        "Phone length":"^([0-9]{5}|[0-9]{6})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TW",
+        "Name":"Taiwan",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":886,
+        "Phone length":"^[0-9]{8,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"TZ",
+        "Name":"United Republic Of Tanzania",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":255,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"UA",
+        "Name":"Ukraine",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":380,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"UG",
+        "Name":"Uganda",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":256,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"UM",
+        "Name":"United States Minor Outlying Islands",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":246,
+        "Phone length":"^[0-9]{7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"US",
+        "Name":"United States",
+        "Postalcode regular expression":"^[0-9]{5}(?:[- ]{1}[0-9]{4})?$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"UY",
+        "Name":"Uruguay",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":598,
+        "Phone length":"^[0-9]{4,11}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"UZ",
+        "Name":"Uzbekistan",
+        "Postalcode regular expression":"^[0-9]{3} [0-9]{3}$",
+        "Phone prefix":998,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VA",
+        "Name":"Vatican City State",
+        "Postalcode regular expression":"^00120$",
+        "Phone prefix":379,
+        "Phone length":"^([0-9]{1}|[0-9]{11})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VC",
+        "Name":"Saint Vincent and the Grenadines",
+        "Postalcode regular expression":"^[Vv][Cc][0-9]{4}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VE",
+        "Name":"Venezuela",
+        "Postalcode regular expression":"^[0-9]{4}(\\s[a-zA-Z]{1})?$",
+        "Phone prefix":58,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VG",
+        "Name":"British Virgin Islands",
+        "Postalcode regular expression":"^[Vv][Gg][0-9]{4}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VI",
+        "Name":"U.S. Virgin Islands",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":1,
+        "Phone length":"^[0-9]{10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VN",
+        "Name":"Vietnam",
+        "Postalcode regular expression":"^[0-9]{6}$",
+        "Phone prefix":84,
+        "Phone length":"^[0-9]{7,10}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"VU",
+        "Name":"Vanuatu",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":678,
+        "Phone length":"^([0-9]{5}|[0-9]{7})$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"WF",
+        "Name":"Wallis and Futuna",
+        "Postalcode regular expression":"^986[0-9]{2}$",
+        "Phone prefix":681,
+        "Phone length":"^[0-9]{6}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"WS",
+        "Name":"Samoa",
+        "Postalcode regular expression":"^[Ww][Ss][0-9]{4}$",
+        "Phone prefix":685,
+        "Phone length":"^[0-9]{3,7}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"XK",
+        "Name":"Kosovo",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":383,
+        "Phone length":"^[0-9]{8}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"YE",
+        "Name":"Yemen",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":967,
+        "Phone length":"^[0-9]{6,9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"YT",
+        "Name":"Mayotte",
+        "Postalcode regular expression":"^976[0-9]{2}$",
+        "Phone prefix":262,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ZA",
+        "Name":"South Africa",
+        "Postalcode regular expression":"^[0-9]{4}$",
+        "Phone prefix":27,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ZM",
+        "Name":"Zambia",
+        "Postalcode regular expression":"^[0-9]{5}$",
+        "Phone prefix":260,
+        "Phone length":"^[0-9]{9}$",
+        "VAT regular expression":null
+    },
+    {
+        "Country code":"ZW",
+        "Name":"Zimbabwe",
+        "Postalcode regular expression":"^[0]{4,5}$",
+        "Phone prefix":263,
+        "Phone length":"^[0-9]{5,10}$",
+        "VAT regular expression":null
+    }
+]
