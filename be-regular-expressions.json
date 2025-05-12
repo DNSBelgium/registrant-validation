@@ -818,7 +818,7 @@
     {
         "Country code":"IE",
         "Name":"Ireland",
-        "Postalcode regular expression":"^[aA-zZ0-9]{7}$",
+        "Postalcode regular expression":"^[a-zA-Z0-9]{3}\\s[a-zA-Z0-9]{4}$",
         "Phone prefix":353,
         "Phone length":"^[0-9]{7,11}$",
         "VAT regular expression":"^(IE)?[0-9]S[0-9]{5}L$"
