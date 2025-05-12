@@ -252,7 +252,7 @@
         "Name":"Brazil",
         "Postalcode regular expression":"^[0-9]{5}-[0-9]{3}$",
         "Phone prefix":55,
-        "Phone length":"^[0-9]{10}$",
+        "Phone length":"^[0-9]{10,11}$",
         "VAT regular expression":null
     },
     {
