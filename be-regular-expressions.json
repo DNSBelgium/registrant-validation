@@ -1228,7 +1228,7 @@
         "Name":"Mauritius",
         "Postalcode regular expression":"^[0-9]{5}|([aA-zZ]{1}[0-9]{4})$",
         "Phone prefix":230,
-        "Phone length":"^[0-9]{7}$",
+        "Phone length":"^[0-9]{7,8}$",
         "VAT regular expression":null
     },
     {
