@@ -170,7 +170,7 @@
     {
         "Country code":"BF",
         "Name":"Burkina Faso",
-        "Postalcode regular expression":"^([0]{4}|[0-9]{2})$",
+        "Postalcode regular expression":"^[0-9]{5}$",
         "Phone prefix":226,
         "Phone length":"^[0-9]{8}$",
         "VAT regular expression":null
