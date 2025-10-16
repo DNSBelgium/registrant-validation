@@ -1272,7 +1272,7 @@
         "VAT regular expression":null
     },
     {
-        "Country code":null,
+        "Country code":"NA",
         "Name":"Namibia",
         "Postalcode regular expression":"^[0-9]{5}$",
         "Phone prefix":264,
