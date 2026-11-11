@@ -1340,7 +1340,7 @@
         "Name":"Nepal",
         "Postalcode regular expression":"^[0-9]{5}$",
         "Phone prefix":977,
-        "Phone length":"^[0-9]{8,9}$",
+        "Phone length":"^[0-9]{8,10}$",
         "VAT regular expression":null
     },
     {
